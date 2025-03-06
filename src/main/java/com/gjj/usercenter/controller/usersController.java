@@ -70,6 +70,14 @@ public class usersController {
         return userService.userLogin(userAccount, userPassword, request);
     }
 
+    @PostMapping("/logout")
+    public Integer userLogin(HttpServletRequest request) {
+        if (request == null) {
+            return null;
+        }
+        return userService.userLogOut(request);
+    }
+
 
     @GetMapping("/current")
     public users getCurrentUser(HttpServletRequest request) {
