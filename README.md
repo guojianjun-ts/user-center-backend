@@ -145,7 +145,7 @@ MyBatis X插件，自动根据数据库生成domain实体对象、mapper（操�
 
 4. 返回用户信息（脱敏）
 
-
+![What is AI? A Beginner's Guide to Artificial Intelligence (2025)](https://www.elegantthemes.com/blog/wp-content/uploads/2023/06/What-is-AI-1.jpg)
 
 
 
